@@ -1,0 +1,1 @@
+Profesor use for pero en el intro, el intro lo hice para presentacion, pero el codigo en sí que usted pidió esta todo recursivo sin for, porfavor al momento de revisarlo no tomar en cuenta el intro y sus for ya que es algo estético por asi decirlo, muchas gracias
